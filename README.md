@@ -62,15 +62,14 @@ Algorithms tested: Logistic Regression, Random Forest, XGBoost
 Metrics used: Accuracy, Precision, Recall, F1-Score
 
 Best model: Random Forest (~[add your accuracy]% on test data)
+## 🧾 File Structure
+---
+<img src="https://github.com/user-attachments/assets/c853f943-2a08-4dc3-83ce-5aca59206eaa" alt="App Screenshot" width="480" height="295">
 
-🧾 File Structure
---
-![App Screenshot](<img width="482" height="295" alt="Image" src="https://github.com/user-attachments/assets/c853f943-2a08-4dc3-83ce-5aca59206eaa" />)
+## 📸 Screenshots
+---
+<img src="https://github.com/user-attachments/assets/b9f2eadb-6a48-43ab-bdb4-f7cf6ba52ec0" alt="App Screenshot" width="800">
 
-📸 Screenshots
---
-
-![App Screenshot](<img width="1619" height="1010" alt="Image" src="https://github.com/user-attachments/assets/b9f2eadb-6a48-43ab-bdb4-f7cf6ba52ec0" />)
 
 📚 References
 --
