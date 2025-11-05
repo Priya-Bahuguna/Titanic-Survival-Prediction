@@ -65,12 +65,12 @@ Best model: Random Forest (~[add your accuracy]% on test data)
 
 🧾 File Structure
 --
-![App Screenshot](<img width="482" height="295" alt="Image" src="https://github.com/user-attachments/assets/12c8e759-6f73-44b3-8484-4abe1267a4a1" />)
+![App Screenshot](<img width="482" height="295" alt="Image" src="https://github.com/user-attachments/assets/c853f943-2a08-4dc3-83ce-5aca59206eaa" />)
 
 📸 Screenshots
 --
 
-![App Screenshot](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6c7d23b7-8598-41b9-b835-2d81fad1a632" />)
+![App Screenshot](<img width="1619" height="1010" alt="Image" src="https://github.com/user-attachments/assets/b9f2eadb-6a48-43ab-bdb4-f7cf6ba52ec0" />)
 
 📚 References
 --
